@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kavin-siva/Leetcode-kavin/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/kavin-siva/Leetcode-kavin/tree/master/0049-group-anagrams) |
 ## Hash Table
 |  |
@@ -16,5 +17,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/kavin-siva/Leetcode-kavin/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/kavin-siva/Leetcode-kavin/tree/master/0049-group-anagrams) |
+## Two Pointers
+|  |
+| ------- |
+| [0015-3sum](https://github.com/kavin-siva/Leetcode-kavin/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
